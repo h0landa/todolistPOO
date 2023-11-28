@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:todo_list/models/tarefa_model.dart';
-import 'package:todo_list/modules/gerador_id.dart';
 import 'package:todo_list/repositories/tarefas_repositore.dart';
 import 'package:todo_list/widgets/my_text_field.dart';
 
